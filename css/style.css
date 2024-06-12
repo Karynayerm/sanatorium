@@ -5,7 +5,7 @@
   font-size: 20px; 
 }
 .site-footer, .top-bar {
-  background: #7a5e86;
+  background: #89AC76;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7a5e86', endColorstr='#f77b2e', GradientType=1 ); 
 }
 .font-gray-5, .block-heading-1 span {
@@ -1038,9 +1038,9 @@ h1, h2, h3, h4, h5,
     color: #000 !important; }
 
 .footer-suscribe-form .btn {
-  background: #7a5e86;
+  background: #89AC76;
   color: #fff;
-  border-color: #7a5e86; }
+  border-color: #769466; }
 
 .pricing {
   background: #fff;
